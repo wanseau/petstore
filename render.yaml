@@ -28,7 +28,7 @@ services:
           name: petstore-db
           property: password
       - key: CORS_ALLOWED_ORIGINS
-        value: https://petstore-frontend-0thv.onrender.com
+        value: https://petstore-frontend-row4.onrender.com
       - key: DB_SSL_MODE
         value: require
       - key: PORT
