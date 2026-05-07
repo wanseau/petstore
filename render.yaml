@@ -46,7 +46,7 @@ services:
         destination: /index.html
     envVars:
       - key: VITE_API_BASE_URL
-        value: https://petstore-backend-j3jb.onrender.com
+        value: https://petstore-backend-6ppm.onrender.com
 
 databases:
   - name: petstore-db
