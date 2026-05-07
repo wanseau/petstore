@@ -112,7 +112,7 @@ function App() {
             <Typography variant="h2" component="h1" className="text-white font-extrabold mb-4 drop-shadow-sm tracking-tight" sx={{ fontSize: { xs: '2.5rem', md: '4rem' }}}>
               Find Your New Best Friend
             </Typography>
-            <Typography variant="h6" className="text-blue-100 font-medium max-w-2xl mx-auto leading-relaxed">
+            <Typography variant="h6" align="center" className="text-blue-100 font-medium max-w-2xl mx-auto leading-relaxed">
               Explore our premium collection of well-loved and unique animals looking for their forever home today.
             </Typography>
           </Container>
